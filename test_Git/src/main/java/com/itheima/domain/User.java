@@ -4,4 +4,6 @@ public class User {
     private String username;
     private int age;
     private String password;
+    //dasdasdas
+    private String srdc;
 }
